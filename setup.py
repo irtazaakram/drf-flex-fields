@@ -15,16 +15,11 @@ classifiers = [
     # that you indicate whether you support Python 2, Python 3 or both.
     "Programming Language :: Python :: 2.7",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.2",
-    "Programming Language :: Python :: 3.3",
-    "Programming Language :: Python :: 3.4",
-    "Programming Language :: Python :: 3.5",
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8"
 ]
 setup(
     name="drf-flex-fields",
-    version="1.0.2",
+    version="1.3.0",
     description="Flexible, dynamic fields and nested resources for Django REST Framework serializers.",
     author="Robert Singer",
     author_email="robertgsinger@gmail.com",
